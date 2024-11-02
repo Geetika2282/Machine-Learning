@@ -1,3 +1,3 @@
 # Machine-Learning
 
-Harry Potter predictor - https://harrypotter-character.streamlit.app/
+Harry Potter character predictor - https://harrypotter-character.streamlit.app/
